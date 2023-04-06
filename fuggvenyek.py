@@ -41,3 +41,4 @@ def valueCounter(): #5. feladat
             _counter += 1
     return _counter
 print(f'Is in the list {(valueCounter())} times') 
+#asd
